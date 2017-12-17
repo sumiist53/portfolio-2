@@ -1,0 +1,79 @@
+.menu{
+    background-color:#34495e;
+}
+.hover-menu li a{
+    letter-spacing: 1px;
+    color:rgb(242, 247, 197);
+}
+.hover-menu li a:hover{
+        background-color:#2ecc71;
+        border:2px outset rgb(93, 102, 2);
+        transition:3s;
+}
+
+.logo{
+    text-transform: uppercase;
+    font-size:30px;
+    text-none: none;
+}
+.line a {
+    text-decoration: none;
+}
+.background-one{
+    background-image:url("../images/aaaa.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;
+
+
+
+}
+.paragraph {
+
+    padding-top: 50px;
+    padding-bottom: 150px;
+    color:black;
+}
+
+.paragraph p{
+   text-align:justify;
+
+
+}
+.heading h1{
+    text-transform: uppercase;
+    font-family: "Adobe Garamond Pro";
+}
+
+.background-two {
+    background-image: url("../images/m.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.background-three {
+    background-image: url("../images/m.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.background-four {
+    background-image: url("../images/m.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.contact{
+    margin:103px 0;
+    color:white;
+}.contact{
+    margin:103px 0;
+    color:white;
+}
+.contact ul li a{
+
+    color:rgb(26, 204, 29);
+}
